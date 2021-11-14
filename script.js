@@ -67,5 +67,3 @@ btnHold.addEventListener("click", function () {
     }
   }
 });
-
-
